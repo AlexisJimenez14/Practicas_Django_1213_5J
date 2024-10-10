@@ -14,3 +14,9 @@ aqui se realizan las practicas en Django que es un framework Marco de trabajo UI
 - 12 Ejecutar el servidor --> python manage.py runserver
 - 13 realizar migracion --> python manage.py migrate
 - 14 volver a ejecutar el servidor
+
+- link
+
+- tablas
+- ![image](https://github.com/user-attachments/assets/10afd9a4-025a-489f-824a-14e3d9df8424)
+
